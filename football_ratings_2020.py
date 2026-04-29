@@ -100,6 +100,8 @@ def build_id_to_classname(team_to_class, schools_csv=SCHOOLS_CSV):
         "195": "Soldan International Studies with Sumner",
         "572": "St. Joseph Christian with Northland Christian",
         "206": "Vashon with Transportation and Law",
+        "430": "Russellville",
+        "469": "Sweet Springs with Malta Bend",
     }
  
     df = pd.read_csv(schools_csv)
