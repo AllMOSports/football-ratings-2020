@@ -31,12 +31,6 @@ COMPETITIVE_THRESHOLD = 40
 # Team names must match exactly the names in classifications.json.
  
 MANUAL_GAMES = [
-    ("2020-09-07", "Cardinal Ritter", 27, "Lutheran North", 13),
-    ("2020-09-13", "Cardinal Ritter", 53, "St. Dominic", 14),
-    ("2020-09-21", "Cardinal Ritter", 48, "Helias Catholic", 14),
-    ("2020-09-27", "Cardinal Ritter", 70, "Father Tolton", 14),
-    ("2020-10-04", "Cardinal Ritter", 46, "St. Mary's South Side", 20),
-    ("2020-10-11", "Cardinal Ritter", 54, "St. Francis Borgia", 8),
 ]
  
 # ---------------------------------------------------------------------------
@@ -47,10 +41,27 @@ MANUAL_GAMES = [
 # Team order does not matter — both directions are checked.
  
 EXCLUDED_GAMES = [
-    ("2020-08-30", "Bishop DuBourg with Hancock", "Jefferson (Festus)"),
-    ("2020-08-30", "Ladue Horton Watkins", "Ritenour"),
-    ("2020-11-01", "Lincoln", "Pleasant Hope"),
-    ("2020-11-01", "Duchesne", "Cardinal Ritter"),
+    ("2020-10-30", "Principia", "Louisiana"),
+    ("2020-10-30", "Central (Cape Girardeau)", "DeSoto"),
+    ("2020-10-30", "Kirkwood", "SLUH"),
+    ("2020-10-30", "Rockhurst", "Joplin"),
+    ("2020-11-13", "Lindbergh", "Fox"),
+    ("2020-10-30", "Caruthersville", "Portageville"),
+    ("2020-10-30", "Marionville", "Greenfield"),
+    ("2020-10-30", "Harrisburg", "Slater"),
+    ("2020-10-30", "South Harrison", "Putnam County"),
+    ("2020-10-30", "Penney", "Gallatin"),
+    ("2020-10-30", "Veritas Christian Academy", "Lutheran South"),
+    ("2020-10-30", "Reeds Spring", "Hollister"),
+    ("2020-10-30", "Hillsboro", "Perryville"),
+    ("2020-10-30", "North Kansas City", "Oak Park"),
+    ("2020-10-30", "Park Hill South", "Central (St. Joseph)"),
+    ("2020-10-30", "Nixa", "Lee's Summit North"),
+    ("2020-11-06", "Lutheran St. Charles", "Cuba"),
+    ("2020-11-06", "Cassville", "Reeds Spring"),
+    ("2020-11-06", "Ft. Zumwalt North", "Parkway Central"),
+    ("2020-11-06", "Grain Valley", "William Chrisman"),
+    ("2020-11-06", "Francis Howell", "Holt"),
 ]
  
 HEADERS = {
