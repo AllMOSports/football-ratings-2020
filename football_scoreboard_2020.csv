@@ -186,7 +186,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2020-09-04,Brookfield,42,Marceline,7
 2020-09-04,Harrisonville,40,Maryville,42
 2020-09-04,Springfield Catholic,19,McDonald County,35
-2020-09-04,Maysville with Winston,8,Mid-Buchanan,73
 2020-09-04,Princeton with Mercer,38,Midway,19
 2020-09-04,Harrisburg,32,Milan,57
 2020-09-04,Pleasant Hope,0,Miller,45
@@ -319,7 +318,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2020-09-11,Grain Valley,35,Park Hill South,28
 2020-09-11,Grandview,12,Platte County,35
 2020-09-11,Harrisonville,45,Pleasant Hill,14
-2020-09-11,Maysville with Winston,6,Polo,12
 2020-09-11,Fredericktown,6,Potosi,28
 2020-09-11,Milan,32,Putnam County,0
 2020-09-11,Webb City,49,Republic,28
@@ -411,7 +409,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2020-09-18,Cassville,43,Logan-Rogersville,6
 2020-09-18,Greenfield,0,Marionville,85
 2020-09-18,Hollister,27,Marshfield,24
-2020-09-18,South Harrison,36,Maysville with Winston,0
 2020-09-18,Marshall,20,Mexico,28
 2020-09-18,Princeton with Mercer,8,Milan,39
 2020-09-18,Kirksville,0,Moberly,27
@@ -506,7 +503,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2020-09-25,Washington,21,Ft. Zumwalt South,7
 2020-09-25,Holt,48,Ft. Zumwalt West,28
 2020-09-25,Moberly,50,Fulton,12
-2020-09-25,Maysville with Winston,20,Gallatin,32
 2020-09-25,Kearney,14,Grain Valley,38
 2020-09-25,Raytown South,6,Grandview,51
 2020-09-25,Osage,50,Hallsville,78
@@ -640,7 +636,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2020-10-02,Northwest (Cedar Hill),20,Lindbergh,41
 2020-10-02,Pierce City,20,Marionville,44
 2020-10-02,Wright City,16,Mark Twain,36
-2020-10-02,Princeton with Mercer,30,Maysville with Winston,14
 2020-10-02,Harrisonville,28,McDonald County,14
 2020-10-02,Fulton,28,Mexico,49
 2020-10-02,Penney,6,Mid-Buchanan,63
@@ -765,7 +760,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2020-10-09,Sarcoxie,12,Marionville,48
 2020-10-09,Kirkwood,34,Marquette,35
 2020-10-09,Aurora,40,Marshfield,13
-2020-10-09,Trenton,20,Maysville with Winston,22
 2020-10-09,Kirksville,21,Mexico,22
 2020-10-09,Houston,14,Midway,7
 2020-10-09,Mark Twain,14,Montgomery County,48
@@ -920,7 +914,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2020-10-16,Center,21,Pleasant Hill,28
 2020-10-16,Forsyth,56,Pleasant Hope,0
 2020-10-16,South Harrison,6,Princeton with Mercer,28
-2020-10-16,Maysville with Winston,22,Putnam County,0
 2020-10-16,Grain Valley,14,Raytown,21
 2020-10-16,Carthage,63,Republic,29
 2020-10-16,Lindbergh,27,Rockwood Summit,23
@@ -1036,7 +1029,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2020-10-23,Louisiana,6,Mark Twain,28
 2020-10-23,Cameron,27,Marshall,20
 2020-10-23,Mt. Vernon,22,Marshfield,33
-2020-10-23,Milan,43,Maysville with Winston,6
 2020-10-23,Warrenton,29,Mexico,26
 2020-10-23,West Platte,6,Mid-Buchanan,60
 2020-10-23,Marionville,60,Miller,0
@@ -1113,7 +1105,12 @@ Date,Home Team,Home Score,Away Team,Away Score
 2020-10-30,Scotland County,12,Princeton with Mercer,40
 2020-10-30,Polo,21,Plattsburg,7
 2020-10-30,North Platte,14,East Buchanan,48
-2020-10-30,Maysville with Winston,6,West Platte,28
+2020-10-30,Caruthersville,13,Portageville,0
+2020-10-30,Principia,0,Louisiana,13
+2020-10-30,Marionville,13,Greenfield,0
+2020-10-30,Harrisburg,13,Slater,0
+2020-10-30,South Harrison,13,Putnam County,0
+2020-10-30,Penney,13,Gallatin,0
 2020-10-30,Scott City,39,Central (New Madrid County),42
 2020-10-30,Charleston,0,Kelly,46
 2020-10-30,St. Pius X (Festus),0,Jefferson (Festus),33
@@ -1132,6 +1129,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2020-10-30,Lawson,0,Brookfield,44
 2020-10-30,Trenton,0,Lexington,36
 2020-10-30,Lathrop,0,Lafayette County,21
+2020-10-30,Veritas Christian Academy,13,Lutheran South,0
 2020-10-30,Dexter,28,Ste. Genevieve,46
 2020-10-30,Fredericktown,8,St. Mary's South Side,44
 2020-10-30,Cardinal Ritter,57,Owensville,8
@@ -1150,6 +1148,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2020-10-30,Benton,28,Chillicothe,34
 2020-10-30,Northeast (Kansas City),20,Maryville,60
 2020-10-30,Central (Kansas City),20,Cameron,58
+2020-10-30,Reeds Spring,13,Hollister,0
 2020-10-30,Sikeston,0,North County,43
 2020-10-30,Pacific,50,Windsor (Imperial),34
 2020-10-30,Clayton,0,Union,42
@@ -1168,6 +1167,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2020-10-30,Lafayette (St. Joseph),21,Savannah,20
 2020-10-30,Excelsior Springs,7,Kearney,22
 2020-10-30,Central (Cape Girardeau),0,DeSoto with Kingston,13
+2020-10-30,Hillsboro,13,Perryville,0
 2020-10-30,Mehlville,10,Poplar Bluff,35
 2020-10-30,Oakville,6,Farmington,42
 2020-10-30,Westminster Christian Academy,0,Ladue Horton Watkins,28
@@ -1182,6 +1182,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2020-10-30,Truman,17,Belton,27
 2020-10-30,Smith-Cotton,0,Raytown,36
 2020-10-30,Fort Osage,21,Staley,31
+2020-10-30,North Kansas City,13,Oak Park,0
+2020-10-30,Park Hill South,13,Central (St. Joseph),0
 2020-10-30,Vianney,0,Fox,42
 2020-10-30,Northwest (Cedar Hill),19,Lafayette (Wildwood),37
 2020-10-30,Eureka,14,Lindbergh,21
@@ -1195,6 +1197,9 @@ Date,Home Team,Home Score,Away Team,Away Score
 2020-10-30,Park Hill,28,Blue Springs,55
 2020-10-30,Hickman,7,Liberty North,49
 2020-10-30,Troy Buchanan,20,Rock Bridge,31
+2020-10-30,Kirkwood,0,SLUH,13
+2020-10-30,Rockhurst,0,Joplin,13
+2020-10-30,Nixa,13,Lee's Summit North,0
 2020-10-31,Wellington-Napoleon,14,University Academy Charter,16
 2020-10-31,Holden,0,Hogan Prep Academy Charter,42
 2020-10-31,Herculaneum,0,Priory,56
@@ -1229,6 +1234,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2020-11-06,Hogan Prep Academy Charter,20,Warsaw,26
 2020-11-06,Brookfield,6,St. Pius X (Kansas City),20
 2020-11-06,Lafayette County,21,Lexington,14
+2020-11-06,Lutheran St. Charles,13,Cuba,0
 2020-11-06,Ste. Genevieve,29,Kennett,47
 2020-11-06,St. Mary's South Side,55,Valle Catholic,22
 2020-11-06,Cardinal Ritter,45,Central (Park Hills),14
@@ -1244,6 +1250,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2020-11-06,Summit Christian Academy,35,Oak Grove,0
 2020-11-06,Chillicothe,41,Richmond,62
 2020-11-06,Cameron,13,Maryville,41
+2020-11-06,Cassville,13,Reeds Spring,0
 2020-11-06,DeSoto with Kingston,7,Festus,35
 2020-11-06,North County,36,Hillsboro,28
 2020-11-06,Sullivan,20,Union,21
@@ -1272,12 +1279,15 @@ Date,Home Team,Home Score,Away Team,Away Score
 2020-11-06,Raytown,14,Belton,10
 2020-11-06,North Kansas City,17,Platte County,24
 2020-11-06,Staley,14,Park Hill South,9
+2020-11-06,Ft. Zumwalt North,13,Parkway Central,0
+2020-11-06,Grain Valley,13,William Chrisman,0
 2020-11-06,Lafayette (Wildwood),29,Fox,49
 2020-11-06,Lindbergh,28,SLUH,21
 2020-11-06,Christian Brothers College,21,De Smet Jesuit,54
 2020-11-06,Joplin,7,Raymore-Peculiar,28
 2020-11-06,Blue Springs,28,Liberty,31
 2020-11-06,Rock Bridge,0,Liberty North,44
+2020-11-06,Francis Howell,13,Holt,0
 2020-11-07,Pacific,7,John Burroughs,35
 2020-11-07,Trinity Catholic,6,MICDS,31
 2020-11-07,Lee's Summit West,28,Nixa,40
@@ -1317,6 +1327,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2020-11-13,Webb City,42,Carthage,21
 2020-11-13,Raytown,7,Grain Valley,42
 2020-11-13,Staley,13,Platte County,33
+2020-11-13,Lindbergh,0,Fox,13
 2020-11-13,Francis Howell,7,De Smet Jesuit,28
 2020-11-13,Nixa,15,Raymore-Peculiar,18
 2020-11-13,Liberty North,28,Liberty,10
