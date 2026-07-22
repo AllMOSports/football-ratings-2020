@@ -37,11 +37,20 @@ MOV_CAP               = 28    # max points of "error" any single game can contri
 # Team names must match exactly the names in classifications.json.
  
 MANUAL_GAMES = [
-    # NOTE: These are manually-added 2011 games that don't appear on the
-    # MSHSAA scoreboard. The list has been cleared for 2020 since none of
-    # the 2011 entries apply to this season. Re-populate with any 2020
-    # games missing from the scraped scoreboard, in the same format:
-    # ("YYYY-MM-DD", "Team 1 Name", score1, "Team 2 Name", score2)
+    # Added from 2020_Missing_Games.xlsx (games missing from MSHSAA scoreboard).
+    # TODO: the spreadsheet had no date column -- replace "2020-XX-XX" below
+    # with each game's actual date once you have it. Dates don't affect the
+    # rating math (calculate_ratings() ignores them entirely), but they do
+    # feed the scoreboard CSV and the dedup key, so they should be corrected
+    # before treating football_scoreboard_2020.csv as authoritative.
+    ("2020-08-01", "Grandview (Hillsboro)", 12, "Russellville", 8),
+    ("2020-08-01", "Harrisburg", 72, "Russellville", 28),
+    ("2020-08-01", "Hogan Prep Academy Charter", 58, "Russellville", 14),
+    ("2020-08-01", "Missouri Military Academy", 53, "Russellville", 8),
+    ("2020-08-01", "Seckman", 35, "Central (Park Hills)", 33),
+    ("2020-08-01", "Slater", 63, "Russellville", 16),
+    ("2020-08-01", "St. Clair", 35, "Central (Cape Girardeau)", 7),
+    ("2020-08-01", "Tipton", 56, "Russellville", 18),
 ]
  
 HEADERS = {
